@@ -101,12 +101,14 @@ def remove_stopwords(in_file=None, out_file=None):
 
     tokens = wordpunct_tokenize(text)
     try:
-        stop_words = stopwords.words(language)
-    except LookupError:
-        logging.error('Unable to find data for nltk.corpas. Please download.')
-        import nltk
-        nltk.download()
-        stop_words = stopwords.words(language)
+        try:
+            stop_words = stopwords.words(language)
+        except LookupError:
+            logging.error('Unable to find data for nltk.corpas. '
+                          'Please download.')
+            import nltk
+            nltk.download()
+            stop_words = stopwords.words(language)
     except OSError:
         logging.error('Stopwords corpus not available for '
                       '{lang}'.format(lang=language))
