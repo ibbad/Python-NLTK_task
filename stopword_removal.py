@@ -16,7 +16,8 @@ def _install_package(package_name):
     """
     import pip
     import os
-    if os.getuid() != 0:
+    # check if python is running in virtual environment and with SUDO rights?
+    if not hasattr(sys, 'real_prefix') and os.getuid() != 0:
         print("Unable to install {pkg} because user is not SUDO. Permission "
               "denied.".format(pkg=package_name))
         return False
