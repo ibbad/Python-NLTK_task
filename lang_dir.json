@@ -1,0 +1,552 @@
+{
+    "af": {
+      "lang_family": "indo-european",
+      "lang_name": "afrikaans",
+      "native_name": "afrikaans",
+      "639-1": "af",
+      "639-2/T": "afr",
+      "639-2/B": "afr",
+      "639-3": "afr",
+      "639-6": "afrs"
+    },
+    "ar": {
+      "lang_family": "afro-asiatic",
+      "lang_name": "arabic",
+      "native_name": "العربية",
+      "639-1": "ar",
+      "639-2/T": "ara",
+      "639-2/B": "ara",
+      "639-3": "ara+30",
+      "639-6": ""
+    },
+    "bg": {
+      "lang_family": "indo-european",
+      "lang_name": "bulgarian",
+      "native_name": "български език",
+      "639-1": "bg",
+      "639-2/T": "bul",
+      "639-2/B": "bul",
+      "639-3": "bul",
+      "639-6": "buls"
+    },
+    "bn": {
+      "lang_family": "indo-european",
+      "lang_name": "bengali",
+      "native_name": "বাংলা",
+      "639-1": "bn",
+      "639-2/T": "ben",
+      "639-2/B": "ben",
+      "639-3": "ben",
+      "639-6": ""
+    },
+    "ca": {
+      "lang_family": "indo-european",
+      "lang_name": "catalan",
+      "native_name": "català",
+      "639-1": "ca",
+      "639-2/T": "cat",
+      "639-2/B": "cat",
+      "639-3": "cat",
+      "639-6": ""
+    },
+    "cs": {
+      "lang_family": "indo-european",
+      "lang_name": "czech",
+      "native_name": "čeština",
+      "639-1": "cs",
+      "639-2/T": "ces",
+      "639-2/B": "cze",
+      "639-3": "ces",
+      "639-6": ""
+    },
+    "cy": {
+      "lang_family": "indo-european",
+      "lang_name": "welsh",
+      "native_name": "cymraeg",
+      "639-1": "cy",
+      "639-2/T": "cym",
+      "639-2/B": "wel",
+      "639-3": "cym",
+      "639-6": ""
+    },
+    "da": {
+      "lang_family": "indo-european",
+      "lang_name": "danish",
+      "native_name": "dansk",
+      "639-1": "da",
+      "639-2/T": "dan",
+      "639-2/B": "dan",
+      "639-3": "dan",
+      "639-6": ""
+    },
+    "de": {
+      "lang_family": "indo-european",
+      "lang_name": "german",
+      "native_name": "deutsch",
+      "639-1": "de",
+      "639-2/T": "deu",
+      "639-2/B": "ger",
+      "639-3": "deu",
+      "639-6": "deus"
+    },
+    "el": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "en": {
+      "lang_family": "indo-european",
+      "lang_name": "english",
+      "native_name": "english",
+      "639-1": "en",
+      "639-2/T": "eng",
+      "639-2/B": "eng",
+      "639-3": "eng",
+      "639-6": "engs"
+    },
+    "es": {
+      "lang_family": "indo-european",
+      "lang_name": "spanish",
+      "native_name": "español",
+      "639-1": "es",
+      "639-2/T": "spa",
+      "639-2/B": "spa",
+      "639-3": "spa",
+      "639-6": ""
+    },
+    "et": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "fa": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "fi": {
+      "lang_family": "uralic",
+      "lang_name": "finnish",
+      "native_name": "suomi",
+      "639-1": "fi",
+      "639-2/T": "fin",
+      "639-2/B": "fin",
+      "639-3": "fin",
+      "639-6": ""
+    },
+    "fr": {
+      "lang_family": "indo-european",
+      "lang_name": "french",
+      "native_name": "français",
+      "639-1": "fr",
+      "639-2/T": "fra",
+      "639-2/B": "fre",
+      "639-3": "fra",
+      "639-6": "fras"
+    },
+    "gu": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "he": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "hi": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "hr": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "hu": {
+      "lang_family": "uralic",
+      "lang_name": "hungarian",
+      "native_name": "magyar",
+      "639-1": "hu",
+      "639-2/T": "hun",
+      "639-2/B": "hun",
+      "639-3": "hun",
+      "639-6": ""
+    },
+    "id": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "it": {
+      "lang_family": "indo-european",
+      "lang_name": "italian",
+      "native_name": "italiano",
+      "639-1": "it",
+      "639-2/T": "ita",
+      "639-2/B": "ita",
+      "639-3": "ita",
+      "639-6": "itas"
+    },
+    "ja": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "kn": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "ko": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "lt": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "lv": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "mk": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "ml": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "mr": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "ne": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "nl": {
+      "lang_family": "indo-european",
+      "lang_name": "dutch",
+      "native_name": "nederlands",
+      "639-1": "nl",
+      "639-2/T": "nld",
+      "639-2/B": "dut",
+      "639-3": "nld",
+      "639-6": ""
+    },
+    "no": {
+      "lang_family": "indo-european",
+      "lang_name": "norwegian",
+      "native_name": "Norsk",
+      "639-1": "no",
+      "639-2/T": "nor",
+      "639-2/B": "nor",
+      "639-3": "nor+2",
+      "639-6": ""
+    },
+    "pa": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "pl": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "pt": {
+      "lang_family": "indo-european",
+      "lang_name": "portuguese",
+      "native_name": "português",
+      "639-1": "pt",
+      "639-2/T": "por",
+      "639-2/B": "por",
+      "639-3": "por",
+      "639-6": ""
+    },
+    "ro": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "ru": {
+      "lang_family": "indo-european",
+      "lang_name": "russian",
+      "native_name": "pусский",
+      "639-1": "ru",
+      "639-2/T": "rus",
+      "639-2/B": "rus",
+      "639-3": "rus",
+      "639-6": ""
+    },
+    "sk": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "sl": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "so": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "sq": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "sv": {
+      "lang_family": "indo-european",
+      "lang_name": "swedish",
+      "native_name": "svenska",
+      "639-1": "sv",
+      "639-2/T": "swe",
+      "639-2/B": "swe",
+      "639-3": "swe",
+      "639-6": ""
+    },
+    "sw": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "ta": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "te": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "th": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "tl": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "tr": {
+      "lang_family": "turkic",
+      "lang_name": "turkish",
+      "native_name": "türkçe",
+      "639-1": "tr",
+      "639-2/T": "tur",
+      "639-2/B": "tur",
+      "639-3": "tur",
+      "639-6": ""
+    },
+    "uk": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "ur": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "vi": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "zh-cn": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    },
+    "zh-tw": {
+      "lang_family": "",
+      "lang_name": "",
+      "native_name": "",
+      "639-1": "",
+      "639-2/T": "",
+      "639-2/B": "",
+      "639-3": "",
+      "639-6": ""
+    }
+}

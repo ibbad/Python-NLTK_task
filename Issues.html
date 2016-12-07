@@ -1,0 +1,51 @@
+<html>
+<h1>(Possible) Issues</h1>
+<ol>
+ <li>
+  The solution does not incorporate any workaround for artifacts in file due to
+ formatting.
+ </li>
+ <li>
+  If the pdf is generated from another file e.g. doc/docx/tex file, there
+may be some history from previous version of that stored in the pdf file. The
+ solution reads all that data as well in the text. I have not solved removing
+  that information.
+ </li>
+ <li>
+  The processing is linear so it may take long time for larger files, the
+processing can (and should) be made faster.
+ </li>
+ <li>
+  I tried using lorem_ipsum text for text generation but the "giberish" text
+ produced by lorem_ipsum may be detected as some arbitrary language.
+ </li>
+ <li>
+  The method used to check PDF file is too naive, some better method must be
+ used if support for only pdf file is required.
+ </li>
+ <li>
+  I have not checked it UTF-8 decoding is enough for decoding
+characters following ISO-639-1 standard.
+  <ul>
+   <li>
+    UTF-8 decoding works fine with txt and doc files, but it does not work well
+with PDF files, although PDF file specifies that encoding used is UTF-8.
+   </li>
+   <li>
+    May be the bug has to something to do with textract library but I have not
+ looked much into that.
+   </li>
+   <li>
+    For textract, it can be solved using tesseract-ocr library with text
+ language specified but I am not very convinced by that solution so I did
+  not use it here. Another possible approach would be to use method='pdfminer'
+    with textract.
+   </li>
+   <li>
+    The program is written for Python3 that is why I have not used
+    PDFMiner, as it is supported for Python2.6+
+   </li>
+  </ul>
+ </li>
+</ol>
+</html>
