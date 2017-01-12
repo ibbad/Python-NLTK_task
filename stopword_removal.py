@@ -137,7 +137,7 @@ def main(argv):
     :return:
     """
     try:
-        opts, args = getopt.getopt(argv, "hi:o:", ["infile=", "outfile="])
+        opts, args = getopt.getopt(argv, "hi:o:", ["help","infile=", "outfile="])
     except getopt.GetoptError:
         print("Use stopword_removal -h  for usage information.")
         sys.exit(-2)
